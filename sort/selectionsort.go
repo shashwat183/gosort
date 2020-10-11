@@ -1,6 +1,6 @@
 package sort
 
-// Selectionsort function takes as input an int slice and returns the the sorted slice.
+// Selectionsort function takes as input an int slice and returns the sorted slice.
 // It uses the quick-sort algorithm to sort the array
 func Selectionsort(array []int) []int {
 	if len(array) == 1 {
