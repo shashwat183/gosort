@@ -1,7 +1,5 @@
 package sort
 
-import "fmt"
-
 // Quicksort function takes as argument a slice of integers and returns the sorted slice
 // It uses the bubble-sort algorithm to sort the array
 func Quicksort(slice []int) []int {
@@ -28,7 +26,6 @@ func partition(slice []int, low int, high int) int {
 
 		if slice[j] < pivot {
 			i++
-			fmt.Println(i)
 			swap(slice, i, j)
 		}
 	}
