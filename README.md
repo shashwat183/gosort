@@ -2,7 +2,7 @@
 
 Go package with methods to sort int arrays using various different algorithms
 
-[![Actions Status](https://github.com/shashwat183/gosort/workflows/CI/badge.svg)](https://github.com/shashwat183/gosort/actions)
+[![Actions Status](https://github.com/shashwat183/gosort/workflows/Test/badge.svg)](https://github.com/shashwat183/gosort/actions)
 
 ## Description
 
