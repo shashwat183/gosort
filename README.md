@@ -31,8 +31,6 @@ go get github.com/shashwat183/gosort
 package main
 
 import (
-  "fmt"
-  "math/rand"
   "github.com/shashwat183/gosort/sort"
 )
 
