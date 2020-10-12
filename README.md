@@ -1,6 +1,6 @@
 # gosort
 
-*Go package with methods to sort int arrays using various different algorithms*
+######Go package with methods to sort int arrays using various different algorithms
 
 ## Description
 
